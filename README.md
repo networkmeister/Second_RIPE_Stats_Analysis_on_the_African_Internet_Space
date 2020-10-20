@@ -1,0 +1,1 @@
+This project aims get up to date information about the status of all RIPE Atlas probes and anchors deployed or hosted in Autonomous systems (ASes)in the African Internet ecosystem

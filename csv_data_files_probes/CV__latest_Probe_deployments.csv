@@ -1,0 +1,2 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,37517,,CV,1428072503,20981,False,False,1576699591,14.9175,-23.5385,165.90.112.0/21,,3,Abandoned,1576699591,"['system-ipv4-capable', 'system-v3', 'system-ipv4-rfc1918']",110778421,Probe,CV

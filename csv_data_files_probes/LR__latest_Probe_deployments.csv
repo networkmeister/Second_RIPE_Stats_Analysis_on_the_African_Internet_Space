@@ -1,0 +1,11 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,,,LR,,12396,False,True,,6.3205,-10.8085,,,0,Never Connected,,"['system-flash-drive-filesystem-corrupted', 'system-v3']",0,Probe,LR
+1,154.53.200.130,,37094.0,,LR,1456836149.0,12408,False,True,1511078934.0,6.4315,-9.4325,154.53.200.0/24,,3,Abandoned,1511078934.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",10653335,Probe,LR
+2,,,,,LR,1394195000.0,14478,False,False,1404313951.0,6.5015,-9.4995,,,3,Abandoned,1404313951.0,"['system-ipv4-rfc1918', 'system-auto-geoip-country', 'system-v3']",35917,Probe,LR
+3,,,,,LR,,14496,False,True,,6.3105,-10.7985,,,0,Never Connected,,"['system-dns-problem-suspected', 'system-v3']",0,Probe,LR
+4,,,,,LR,1400330126.0,14497,False,True,1400496988.0,6.2905,-10.7585,,,3,Abandoned,1400496988.0,"['system-ipv4-rfc1918', 'system-v3']",167742,Probe,LR
+5,,,,,LR,1400256727.0,15208,False,False,1400490027.0,6.3115,-10.8025,,,3,Abandoned,1400490027.0,"['system-ipv4-rfc1918', 'system-auto-geoip-city', 'system-v3']",20149,Probe,LR
+6,,,,,LR,1400495137.0,15316,False,False,1409648048.0,6.5005,-9.5025,,,3,Abandoned,1409648048.0,"['system-ipv4-rfc1918', 'system-auto-geoip-country', 'system-v3']",3583428,Probe,LR
+7,197.231.156.12,,37557.0,,LR,1400505510.0,16490,False,True,1508016195.0,6.2875,-10.7585,197.231.156.0/24,,3,Abandoned,1508016195.0,"['system-flash-drive-filesystem-corrupted', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",99714176,Probe,LR
+8,98.200.175.122,,7922.0,,LR,1445089660.0,22343,False,True,1447685454.0,6.3085,-10.8005,98.192.0.0/10,,3,Abandoned,1447685454.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",752101,Probe,LR
+9,,,,,LR,,24058,False,True,,6.2915,-10.7605,,,0,Never Connected,,"['system-firewall-problem-suspected', 'system-v3']",0,Probe,LR

@@ -1,0 +1,12 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,,,CD,1384430766.0,10876,False,True,1386235097.0,-4.3295,15.3105,,,3,Abandoned,1386235097.0,"['system-ipv4-rfc1918', 'system-v3', 'nat']",1226446,Probe,CD
+1,196.216.216.10,,327875.0,,CD,1435830041.0,15269,False,True,1603305214.0,-4.3885,15.9705,196.216.216.0/23,,1,Connected,1603271043.0,"['system-resolver-mangles-case', 'system-ipv4-works', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",94380265,Probe,CD
+2,217.171.88.218,,43256.0,,CD,1449485591.0,24406,False,True,1470129553.0,-4.4395,15.2675,217.171.88.0/24,,3,Abandoned,1470129553.0,"['system-flash-drive-filesystem-corrupted', 'system-ipv4-capable', 'system-v3', 'isp', 'ipv4', 'no-nat', 'datacentre', 'fibre']",14362904,Probe,CD
+3,217.171.94.58,,43256.0,,CD,,24754,False,True,,-4.4405,15.2695,217.171.94.0/24,,3,Abandoned,1499249214.0,"['system-no-flash-drive', 'system-ipv4-capable', 'system-v3']",279,Probe,CD
+4,217.171.92.66,,43256.0,,CD,1576089965.0,26710,False,True,1578100638.0,-4.3225,15.3075,217.171.92.0/24,,3,Abandoned,1578100638.0,"['system-flash-drive-filesystem-corrupted', 'system-ipv4-capable', 'system-v3', 'wireless-isp', 'ipv4', 'no-nat', 'datacentre', 'fibre']",1996587,Probe,CD
+5,41.243.7.234,,37020.0,,CD,1450351014.0,27408,False,True,1481476731.0,-4.4385,15.2675,41.243.7.0/24,,3,Abandoned,1481476731.0,"['system-trying-to-connect', 'system-flash-drive-filesystem-corrupted', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3', 'academic', 'datacentre', 'satellite']",10624564,Probe,CD
+6,,,12684.0,,CD,1500192850.0,29991,False,False,1550445119.0,1.3575,29.0315,41.138.240.0/23,,3,Abandoned,1550445119.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",41685009,Probe,CD
+7,,,,,CD,,32207,False,True,,-11.6895,27.4975,,,0,Never Connected,,"['system-dns-problem-suspected', 'system-v3']",0,Probe,CD
+8,,,,,CD,,32247,False,True,,-11.6895,27.4995,,,0,Never Connected,,['system-v3'],0,Probe,CD
+9,,,327879.0,,CD,1547471814.0,33335,False,False,1547472745.0,-6.1505,23.5985,169.255.190.0/24,,3,Abandoned,1547472745.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-auto-geoip-city', 'system-v3']",2395,Probe,CD
+10,,,,,CD,,51923,False,True,,-1.6615,29.2185,,,0,Never Connected,,['system-v4'],0,Probe,CD

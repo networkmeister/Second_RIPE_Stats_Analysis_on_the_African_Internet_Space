@@ -1,0 +1,3 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,,,KM,1390371147,13247,False,True,1394176530,-11.6495,43.3295,,,3,Abandoned,1394176530,"['system-ipv4-rfc1918', 'system-v3', 'nat']",49200,Probe,KM
+1,,,36939.0,,KM,1431097357,18263,False,False,1559372790,-11.6515,43.3305,197.255.224.0/24,,3,Abandoned,1559372790,"['system-ipv4-capable', 'system-v3']",34346679,Probe,KM

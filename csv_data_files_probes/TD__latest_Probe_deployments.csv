@@ -1,0 +1,6 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,327864.0,,TD,1555670909.0,2399,False,False,1555675033.0,10.2815,15.3715,169.255.152.0/22,,3,Abandoned,1555675033.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-auto-geoip-city', 'system-v2']",4124,Probe,TD
+1,,,,,TD,1396715018.0,13268,False,True,1396856153.0,12.1215,15.0305,,,3,Abandoned,1396856153.0,"['system-ipv4-rfc1918', 'system-v3']",279342,Probe,TD
+2,,,,,TD,,19573,False,True,,12.1185,15.0405,,,0,Never Connected,,['system-v3'],0,Probe,TD
+3,197.159.16.22,,15964.0,,TD,1473872339.0,22553,False,True,1474013363.0,12.1285,15.0595,197.159.0.0/19,,3,Abandoned,1474013363.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",184346,Probe,TD
+4,197.159.16.246,,37544.0,,TD,1558947858.0,33254,False,True,1561657757.0,12.1295,15.0595,197.159.16.0/24,,3,Abandoned,1561657757.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",1649002,Probe,TD

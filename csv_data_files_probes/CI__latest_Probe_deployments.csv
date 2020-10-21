@@ -1,0 +1,19 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,,,,,CI,1344016820.0,2389,False,False,1354965001.0,8.0015,-4.9985,,,3,Abandoned,1354965001.0,"['system-ipv4-rfc1918', 'system-auto-geoip-country', 'system-v2', 'nat', 'office']",8826811,Probe,CI
+1,,,,,CI,,11161,False,True,,5.3375,-4.0295,,,0,Never Connected,,['system-v3'],0,Probe,CI
+2,,,,,CI,,11201,False,True,,5.3375,-4.0325,,,0,Never Connected,,['system-v3'],0,Probe,CI
+3,,,,,CI,1379409810.0,11922,False,True,1386780084.0,7.5385,-5.5515,,,3,Abandoned,1386780084.0,"['system-ipv4-rfc1918', 'system-v3', 'nat']",3985200,Probe,CI
+4,,,,,CI,1379604248.0,11941,False,True,1379604429.0,5.3375,-4.0305,,,3,Abandoned,1379604429.0,"['system-flash-drive-filesystem-corrupted', 'system-v3']",362,Probe,CI
+5,,,,,CI,1391156783.0,12727,False,True,1406716840.0,7.5405,-5.5515,,,3,Abandoned,1406716840.0,"['system-flash-drive-filesystem-corrupted', 'system-ipv4-rfc1918', 'system-v3', 'nat']",11785951,Probe,CI
+6,41.207.197.192,,29571.0,,CI,1385363942.0,12852,False,True,1400062915.0,5.3585,-3.9705,41.207.197.0/24,,3,Abandoned,1400062915.0,"['system-ipv4-rfc1918', 'system-flash-drive-filesystem-corrupted', 'system-ipv4-capable', 'system-v3', 'nat']",5951946,Probe,CI
+7,154.68.55.205,,29571.0,,CI,1394315135.0,13130,False,True,1469707649.0,5.2975,-4.0015,154.68.55.0/24,,3,Abandoned,1469707649.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3', 'nat', 'office', 'dsl']",22856090,Probe,CI
+8,,,,,CI,1405355917.0,14485,False,True,1405412037.0,5.3195,-4.0285,,,3,Abandoned,1405412037.0,"['system-ipv4-rfc1918', 'system-v3']",2080,Probe,CI
+9,,,,,CI,1405419150.0,14487,False,True,1405420136.0,5.3205,-4.0285,,,3,Abandoned,1405420136.0,"['system-ipv4-rfc1918', 'system-v3']",1117,Probe,CI
+10,,,,,CI,1405415621.0,14495,False,True,1405416670.0,5.3195,-4.0285,,,3,Abandoned,1405416670.0,"['system-ipv4-rfc1918', 'system-v3']",953,Probe,CI
+11,213.136.105.5,,29571.0,,CI,1424963735.0,18775,False,True,1520005850.0,5.3895,-3.9695,213.136.105.0/24,,3,Abandoned,1520005850.0,"['system-flakey-connection', 'system-dns-problem-suspected', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",84254859,Probe,CI
+12,41.207.197.192,,29571.0,,CI,1420833670.0,19490,False,True,1468108889.0,5.3275,-4.3685,41.207.197.0/24,,3,Abandoned,1468108889.0,"['system-flash-drive-filesystem-corrupted', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",26382778,Probe,CI
+13,41.242.32.44,,37475.0,,CI,1428580151.0,21156,False,True,1445218449.0,5.3205,-4.0305,41.242.32.0/24,,3,Abandoned,1445218449.0,"['system-ipv4-capable', 'system-v3']",19270686,Probe,CI
+14,,,,,CI,,23509,False,True,,5.3115,-3.9625,,,0,Never Connected,,['system-v3'],0,Probe,CI
+15,197.159.209.29,,37381.0,,CI,1434408728.0,23512,False,True,1473156901.0,5.3185,-4.0325,197.159.209.0/24,,3,Abandoned,1473156901.0,"['system-readonly-flash-drive', 'system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",33045513,Probe,CI
+16,,,,,CI,,33781,False,True,,5.3575,-4.0085,,,0,Never Connected,,['system-v3'],0,Probe,CI
+17,160.120.171.19,,29571.0,,CI,1515004417.0,33991,False,True,1598126433.0,5.3475,-3.9885,160.120.171.0/24,,2,Disconnected,1598126433.0,"['system-ipv4-rfc1918', 'system-ipv4-capable', 'system-v3']",64021802,Probe,CI

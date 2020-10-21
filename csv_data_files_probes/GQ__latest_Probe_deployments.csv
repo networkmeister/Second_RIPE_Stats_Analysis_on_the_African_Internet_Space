@@ -1,0 +1,2 @@
+,address_v4,address_v6,asn_v4,asn_v6,country_code,first_connected,id,is_anchor,is_public,last_connected,latitude,longitude,prefix_v4,prefix_v6,status,status_name,status_since,tags,total_uptime,type,cc
+0,64.86.99.13,,6453,,GQ,1405512956,17880,False,True,1504577344,1.5975,10.8315,64.86.0.0/16,,3,Abandoned,1504577344,"['system-ipv4-capable', 'system-v3', 'system-ipv4-rfc1918']",69864546,Probe,GQ
